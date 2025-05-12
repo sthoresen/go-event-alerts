@@ -23,7 +23,7 @@ For the purposes of this Privacy Policy:
 
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to GO Event Alerts.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to LatentDreamLabs.
 
 
 
@@ -125,13 +125,11 @@ The Company will take all steps reasonably necessary to ensure that Your data is
 
 ### Delete Your Personal Data
 
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+You have the right to request access to, correct, or request assistance in deleting Personal Data We may hold by contacting Us.
 
-Our Service may give You the ability to delete certain information about You from within the Service.
+Please note that settings and preferences related to your use of the GO Event Alerts application (such as your chosen event notification types) are stored locally on your device using the Application's storage mechanisms. **Uninstalling the GO Event Alerts Application from your device is the primary method for deleting this locally stored data.**
 
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
-
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
+We may need to retain certain non-personal Usage Data (as defined elsewhere, if collected) for internal analysis or when we have a legal obligation or lawful basis to retain information for longer periods.
 
 ### Disclosure of Your Personal Data
 
